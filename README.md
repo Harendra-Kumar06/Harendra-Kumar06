@@ -28,7 +28,6 @@
 
 ---
 
-<!-- About Me Section with Snake animation feel -->
 <img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧠 About Me
@@ -61,7 +60,7 @@ currently_learning:
 
 ---
 
-## 🏆 Competitive Programming Trophies
+## 🏆 Competitive Programming
 
 <div align="center">
 
@@ -168,11 +167,6 @@ currently_learning:
 
 ---
 
-
-
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -213,8 +207,6 @@ GFG         ████████░░░░░░░░░░░░░  Int
 
 ---
 
----
-
 ## 💬 Quote I Live By
 
 <div align="center">
@@ -249,11 +241,3 @@ GFG         ████████░░░░░░░░░░░░░  Int
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
-<!-- 
-✅ Setup Checklist for This README:
-1. Create repo named exactly: Harendra-Kumar06/Harendra-Kumar06
-2. Add this README.md to that repo
-3. Add the snake.yml workflow for animated contributions
-4. Update any profile links (LeetCode, Codeforces, CodeChef) to your exact usernames
--->
