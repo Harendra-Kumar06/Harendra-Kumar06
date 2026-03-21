@@ -11,12 +11,15 @@
 <!-- Profile views & social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Harendra-Kumar06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harendra-kumar06">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Harendra-Kumar06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:harendrarajput9627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -71,14 +74,17 @@ currently_learning:
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Harendra_rajput_1810/">
+  <a href="https://leetcode.com/u/harendra-kumar/">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/harendra_rajput">
+  <a href="https://codeforces.com/problemset">
     <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/harendra_1810">
+  <a href="https://www.codechef.com/users/harendra_kumar">
     <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+  </a>
+  <a href="https://atcoder.jp/users/Harendra_Kumar">
+    <img src="https://img.shields.io/badge/View%20AtCoder%20Profile-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
 </div>
 
@@ -125,6 +131,10 @@ currently_learning:
 <a href="https://github.com/Harendra-Kumar06/Portfolio-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harendra-Kumar06&repo=Portfolio-Website&theme=tokyonight&border_color=7c3aed&hide_border=false" />
 </a>
+&nbsp;
+<a href="https://github.com/Harendra-Kumar06/Open-Photography">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harendra-Kumar06&repo=Open-Photography&theme=tokyonight&border_color=7c3aed&hide_border=false" />
+</a>
 
 </div>
 
@@ -140,7 +150,7 @@ currently_learning:
 
 ---
 
-### 📸 Open Photography Website &nbsp; [![Live](https://img.shields.io/badge/🔗%20Live%20Demo-7c3aed?style=for-the-badge)](#)
+### 📸 [Open Photography](https://github.com/Harendra-Kumar06/Open-Photography) &nbsp; [![Repo](https://img.shields.io/badge/🔗%20View%20Repo-7c3aed?style=for-the-badge)](https://github.com/Harendra-Kumar06/Open-Photography)
 
 > A modern photography showcase with a visually appealing, minimal design.
 
