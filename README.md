@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Harendra-Kumar06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harendra-kumar06">
+  <a href="https://www.linkedin.com/in/harendra-kumar-iitp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -37,12 +37,11 @@
 name: Harendra Kumar
 location: Bulandshahr, Uttar Pradesh 🇮🇳
 education: B.Tech CSE @ IIT Patna (2024–2028)
-current_cgpa: 6.87
 
 competitive_programming:
-  leetcode: Knight 🏅 (Max: 1899)
+  leetcode: Knight 🏅 (Max: 1913)
   codeforces: Pupil 🟦 (Max: 1213)
-  codechef: 2-Star ⭐⭐ (Max: 1551)
+  codechef: 2-Star ⭐⭐ (Max: 1604)
   problems_solved: 800+
 
 passions:
@@ -68,7 +67,7 @@ currently_learning:
 | Platform | Rating | Badge | Achievement |
 |:--------:|:------:|:-----:|:-----------:|
 | 🟡 **[LeetCode](https://leetcode.com/u/harendra-kumar/)** | **1899** | [![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harendra-kumar/) | Rank 1030 / 26k+ in Weekly Contest 479 |
-| 🔵 **[Codeforces](https://codeforces.com/problemset)** | **1213** | [![Pupil](https://img.shields.io/badge/Pupil-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset) | Active participant in Div. 2 rounds |
+| 🔵 **[Codeforces](https://codeforces.com/profile/Harendra_Kumar)** | **1213** | [![Pupil](https://img.shields.io/badge/Pupil-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset) | Active participant in Div. 2 rounds |
 | 🟤 **[CodeChef](https://www.codechef.com/users/harendra_kumar)** | **1551** | [![2-Star](https://img.shields.io/badge/2★_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harendra_kumar) | Rank 382 / 3.1k+ in Starters 217 Div.3 |
 
 </div>
@@ -78,7 +77,7 @@ currently_learning:
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/problemset">
+  <a href="https://codeforces.com/profile/Harendra_Kumar">
     <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
