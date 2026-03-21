@@ -11,15 +11,15 @@
 <!-- Profile views & social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Harendra-Kumar06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harendra-kumar06">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Harendra-Kumar06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:harendrarajput9627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -67,9 +67,9 @@ currently_learning:
 
 | Platform | Rating | Badge | Achievement |
 |:--------:|:------:|:-----:|:-----------:|
-| 🟡 **LeetCode** | **1899** | ![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black) | Rank 1030 / 26k+ in Weekly Contest 479 |
-| 🔵 **Codeforces** | **1213** | ![Pupil](https://img.shields.io/badge/Pupil-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white) | Active participant in Div. 2 rounds |
-| 🟤 **CodeChef** | **1551** | ![2-Star](https://img.shields.io/badge/2★_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white) | Rank 382 / 3.1k+ in Starters 217 Div.3 |
+| 🟡 **[LeetCode](https://leetcode.com/u/harendra-kumar/)** | **1899** | [![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harendra-kumar/) | Rank 1030 / 26k+ in Weekly Contest 479 |
+| 🔵 **[Codeforces](https://codeforces.com/problemset)** | **1213** | [![Pupil](https://img.shields.io/badge/Pupil-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset) | Active participant in Div. 2 rounds |
+| 🟤 **[CodeChef](https://www.codechef.com/users/harendra_kumar)** | **1551** | [![2-Star](https://img.shields.io/badge/2★_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harendra_kumar) | Rank 382 / 3.1k+ in Starters 217 Div.3 |
 
 </div>
 
@@ -77,12 +77,15 @@ currently_learning:
   <a href="https://leetcode.com/u/harendra-kumar/">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/problemset">
     <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/harendra_kumar">
     <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://atcoder.jp/users/Harendra_Kumar">
     <img src="https://img.shields.io/badge/View%20AtCoder%20Profile-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
   </a>
