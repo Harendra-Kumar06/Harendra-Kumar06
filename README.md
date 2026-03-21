@@ -233,17 +233,17 @@ GFG         ████████░░░░░░░░░░░░░  Int
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/harendra-kumar06">
+<a href="https://www.linkedin.com/in/harendra-kumar-iitp">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:harendrarajput9627@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/Harendra-Kumar06">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://harendra-kumar06.github.io/Portfolio-Website/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://github.com/Harendra-Kumar06/Portfolio-Website">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
