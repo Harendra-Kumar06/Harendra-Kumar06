@@ -168,48 +168,8 @@ currently_learning:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harendra-Kumar06/Harendra-Kumar06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-> 💡 **To enable the snake animation**, add a GitHub Actions workflow to generate it. See setup below ↓
-
-<details>
-<summary>🔧 Click to see Snake Animation Setup</summary>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -252,12 +212,6 @@ GFG         ████████░░░░░░░░░░░░░  Int
 </div>
 
 ---
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harendra-Kumar06&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies"/>
-</div>
 
 ---
 
