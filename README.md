@@ -39,7 +39,7 @@ location: Bulandshahr, Uttar Pradesh 🇮🇳
 education: B.Tech CSE @ IIT Patna (2024–2028)
 
 competitive_programming:
-  leetcode: Knight 🏅 (Max: 1913)
+  leetcode: Knight 🏅 (Max: 1931)
   codeforces: Pupil 🟦 (Max: 1213)
   codechef: 3-Star ⭐⭐⭐ (Max: 1604)
   problems_solved: 800+
@@ -48,7 +48,6 @@ passions:
   - Algorithmic Problem Solving
   - Full Stack Development
   - Artificial Intelligence
-  - Chess ♟️
 
 currently_learning:
   - Advanced DSA & System Design
@@ -66,7 +65,7 @@ currently_learning:
 
 | Platform | Rating | Badge | Achievement |
 |:--------:|:------:|:-----:|:-----------:|
-| 🟡 **[LeetCode](https://leetcode.com/u/harendra-kumar/)** | **1913** | [![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harendra-kumar/) | Rank 1030 / 26k+ in Weekly Contest 479 |
+| 🟡 **[LeetCode](https://leetcode.com/u/harendra-kumar/)** | **1931** | [![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harendra-kumar/) | Rank 1030 / 26k+ in Weekly Contest 479 |
 | 🔵 **[Codeforces](https://codeforces.com/profile/Harendra_Kumar)** | **1213** | [![Pupil](https://img.shields.io/badge/Pupil-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/problemset) | Active participant in Div. 2 rounds |
 | 🟤 **[CodeChef](https://www.codechef.com/users/harendra_kumar)** | **1604** | [![3-Star](https://img.shields.io/badge/3★_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harendra_kumar) | Rank 93 / 4.2k+ in Starters 230 Div.3 |
 
