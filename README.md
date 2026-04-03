@@ -41,7 +41,7 @@ education: B.Tech CSE @ IIT Patna (2024–2028)
 competitive_programming:
   leetcode: Knight 🏅 (Max: 1931)
   codeforces: Pupil 🟦 (Max: 1250)
-  codechef: 3-Star ⭐⭐⭐ (Max: 1604)
+  codechef: 3-Star ⭐⭐⭐ (Max: 1620)
   problems_solved: 800+
 
 passions:
