@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harendra%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Knight%20%7C%20IIT%20Patna%20%7C%20Full%20Stack%20%7C%20CP%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🏆+LeetCode+Knight+%7C+Rating+1913;⚡+800%2B+Problems+Solved;🚀+IIT+Patna+CS+Undergrad;🤖+AI+%26+Algorithms+Enthusiast;🌐+Open+Source+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🏆+LeetCode+Knight+%7C+Rating+1932;⚡+800%2B+Problems+Solved;🚀+IIT+Patna+CS+Undergrad;🤖+AI+%26+Algorithms+Enthusiast;🌐+Open+Source+Explorer" alt="Typing SVG" />
 
 <br/>
 
